@@ -1,3 +1,5 @@
+#import <UIKit/UIKit.h>
+
 @interface NSDate (TimeAgo)
 - (NSString *) timeAgoSimple;
 - (NSString *) timeAgo;

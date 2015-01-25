@@ -1,4 +1,5 @@
 #import "NSDate+TimeAgo.h"
+#import <UIKit/UIKit.h>
 
 @interface NSDate()
 -(NSString *)getLocaleFormatUnderscoresWithValue:(double)value;
